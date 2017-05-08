@@ -1,0 +1,5 @@
+
+Name Race Dmg  Range Cost Ability	
+----------------------------------
+t1, Delta, 25, 10, 500, Slow
+t2, Omega, 15, 5, 375, Freeze

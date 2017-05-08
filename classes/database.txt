@@ -1,0 +1,11 @@
+Unit		IMAGE		HEALTH		SPEED		COST
+-----------------------------------------------------------------------
+UNIT_BASIC	unit_basic.png	100		5		200	
+
+
+Tower		IMAGE		HEALTH		SPEED		COST
+-----------------------------------------------------------------------
+TOWER_BASIC	tower_basic.png
+
+
+	
